@@ -1,2 +1,2 @@
-## agrios-path
-# 2D Game
+# Agrios Path
+2D Game
